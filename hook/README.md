@@ -12,7 +12,7 @@ PEP8 requirements.
 - Clone the project:
 
 ```python
-git clone https://github.com/kaiqueBellmont/arqmeds_git_hook.git
+git clone https://github.com/kaiqueBellmont/GitHook-Arqmeds.git
 ```
 ## Important:
 ### Extract the hook folder to the root of the project.
