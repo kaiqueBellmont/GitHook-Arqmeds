@@ -44,7 +44,7 @@ requests = "^2.29.0"
 
 #### Create pre-commit-file: 
 ```python
-cd hook/cli/ && poetry run python3  cli.py && cd ../..
+cd hook/cli/ && python3  cli.py && cd ../..
 ```
 **This will create a pre-commit file inside the root/.git/hooks folder.**
 
